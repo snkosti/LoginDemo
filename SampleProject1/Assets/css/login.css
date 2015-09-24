@@ -1,0 +1,12 @@
+﻿body {
+}
+
+.logincss {
+    width: 25%;
+    background-color: whitesmoke;
+}
+.logincss loginbutton {
+    float: right;
+    
+}
+
